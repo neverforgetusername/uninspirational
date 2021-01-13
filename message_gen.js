@@ -8,6 +8,6 @@ randomly generate uninspirational messages.
 
 const firsPartOfMessage = ["Probably  ", "Nevertheless ", "Sometimes "];
 const secondPartOfMessage = ["quitting ", "cheating ", "sleeping "];
-const thirdPartOgMessage = ["is the best answer", "should be considered", "won't not hurt you"];
+const thirdPartOgMessage = ["is the best answer", "should be considered", "won't hurt you"];
 
-console.log(thirdPartOgMessage);
+console.log(thirdPartOgMessage[2]);
