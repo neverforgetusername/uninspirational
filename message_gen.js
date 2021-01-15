@@ -20,5 +20,3 @@ function generateMessage() {
     return message;
 }
 
-
-console.log(generateMessage());
